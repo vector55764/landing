@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": "NwytTRn0qYlPiRWpabC4V",
+      "img": "https://stepanyukvova200.github.io/Interactive-Product-Showcase/Image_product_1.7079eb3f.png",
+      "name": "Phone (1)",
+      "desc": "Designed with instinct, to bring joy back to the everyday. Through the Glyph Interface, a perfected OS and exceptional dual camera. All startlingly fast.",
+      "price": 499
+    },
+    {
+      "id": "NwytTRn1qYlPiRWpabC4V",
+      "img": "https://stepanyukvova200.github.io/Interactive-Product-Showcase/Image_product_2.8bb251bf.png",
+      "name": "Ear (2)",
+      "desc": "Perfecting the path from artist to ear. So that music sounds just as it was intended.",
+      "price": 149
+    },
+    {
+      "id": "NwytTRn0qYlPiRWpabC7K",
+      "img": "https://stepanyukvova200.github.io/Interactive-Product-Showcase/Image_product_3.fee18654.png",
+      "name": "Ear (stick)",
+      "desc": "Tech you can’t feel. Leaving just space for sound to come to life. Powered by custom sound technology.",
+      "price": 119
+    },
+    {
+      "id": "NwytTRn0qYlPiRWpabC4K",
+      "img": "https://stepanyukvova200.github.io/Interactive-Product-Showcase/Image_product_1.7079eb3f.png",
+      "name": "Phone (1)",
+      "desc": "Designed with instinct, to bring joy back to the everyday. Through the Glyph Interface, a perfected OS and exceptional dual camera. All startlingly fast.",
+      "price": 499
+    },
+    {
+      "name": "Ear (2)",
+      "img": "https://stepanyukvova200.github.io/Interactive-Product-Showcase/Image_product_2.8bb251bf.png",
+      "desc": "Perfecting the path from artist to ear. So tfggfnnngfngfnfgnfgnfgnfgf  gfngf  fgngfhat music sounds just as it was intended.",
+      "price": "152",
+      "id": "NwytTRn1qYlPiRWpabC4N"
+    },
+    {
+      "id": "NwytTRn0qYlPiRWpabC7M",
+      "img": "https://stepanyukvova200.github.io/Interactive-Product-Showcase/Image_product_3.fee18654.png",
+      "name": "Ear (stick)",
+      "desc": "Tech you can’t feel. Leaving just space for sound to come to life. Powered by custom sound technology.",
+      "price": 119
+    },
+    {
+      "id": "iQG69HeE8kqque2y_Avti",
+      "name": "new product",
+      "img": "https://stepanyukvova200.github.io/Interactive-Product-Showcase/Image_product_3.fee18654.png",
+      "desc": "some desc",
+      "price": "145"
+    },
+    {
+      "id": "3y2goO9bESG0IB34qFqtY",
+      "name": "     ",
+      "img": "https://stepanyukvova200.github.io/Interactive-Product-Showcase/Image_product_3.fee18654.png",
+      "desc": "some desc",
+      "price": "1425"
+    },
+    {
+      "id": "XjQ_cgPNJ26UWwT1q5-bQ",
+      "name": "ear",
+      "img": "https://stepanyukvova200.github.io/Interactive-Product-Showcase/Image_product_3.fee18654.png",
+      "desc": "some desc",
+      "price": "135"
+    }
+  ]
+}
