@@ -3,6 +3,7 @@ import LocalPhoneIcon from "@mui/icons-material/LocalPhone";
 import MenuIcon from "@mui/icons-material/Menu";
 import { useState } from "react";
 import { Menu } from "./Menu";
+import { NavLink } from "react-router-dom";
 
 const SHeader = styled.header`
   width: 100%;
@@ -86,6 +87,9 @@ export const Header = () => {
             alt="nothing logo"
           />
         </a>
+        <div>
+          <NavLink to="/products">products</NavLink>
+        </div>
         <div className="header__buttons">
           <a href="tel: +1 234 567 89" className="header__button">
             <LocalPhoneIcon />
