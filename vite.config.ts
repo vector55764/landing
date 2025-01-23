@@ -6,4 +6,7 @@ import { ghPages } from "vite-plugin-gh-pages";
 export default defineConfig({
   base: "/landing",
   plugins: [react(), ghPages()],
+  build: {
+    chunkSizeWarningLimit: 2000,
+  },
 });
